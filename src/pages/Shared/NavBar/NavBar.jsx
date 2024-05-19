@@ -22,7 +22,6 @@ const NavBar = () => {
                 <button onClick={handleLogOut} className="btn btn-ghost">LogOut</button>
             </> : <>
                 <li><Link to="/login">Login</Link></li>
-                <li><Link to="/SignUp">SignUp</Link></li>
             </>
         }
     </>
