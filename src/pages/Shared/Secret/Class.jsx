@@ -23,7 +23,7 @@ const Class = () => {
     return (
         <>
             <Helmet>
-                <title>Bistro Boss | Class</title>
+                <title>Race Family | Class</title>
             </Helmet>
         <div>
             <div>
