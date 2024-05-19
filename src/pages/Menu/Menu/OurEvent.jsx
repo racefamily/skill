@@ -52,7 +52,7 @@ const OurEvent = () => {
     return (
         <>
             <Helmet>
-                <title>Bistro Boss | OurEvent</title>
+                <title>Race Family | OurEvent</title>
             </Helmet>
         <div>
             <div className="grid grid-cols-1 md:grid-cols-4 gap-4">

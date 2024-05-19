@@ -4,20 +4,20 @@ import React from 'react';
 const Class = () => {
     // Define an array of YouTube video links
     const videoLinks = [
-        "https://www.youtube.com/watch?v=eNszgsxEj14",
-        "https://www.youtube.com/watch?v=meOWV1w2GE8",
-        "https://www.youtube.com/watch?v=bZNsHugQgz4",
-        "https://www.youtube.com/watch?v=xxeN40KQyZY",
-        "https://www.youtube.com/watch?v=foWu5HFFn4M",
+        "https://www.youtube.com/watch?v=e_5f0A-42ag",
+        "https://www.youtube.com/watch?v=4CRHRUxIbmg",
+        "https://www.youtube.com/watch?v=uXEy7uSNX0w",
+        "https://www.youtube.com/watch?v=xPcs1CSwIGo",
+        "https://www.youtube.com/watch?v=7HbwM_AsxY0",
     ];
 
     // Define an array of topics for each video
     const videoTopics = [
-        "Job",
-        "Iron Lady of Pakistan",
-        "Free Class",
-        "Tajul Vhi",
-        "Sonu Sharma Attitude",
+        "Eco System",
+        "Products",
+        "Sales Process Part 01",
+        "Sales Process Part 02",
+        "Road To Success",
     ];
 
     return (

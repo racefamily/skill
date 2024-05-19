@@ -23,7 +23,7 @@ const Freeclass = () => {
     return (
         <>
             <Helmet>
-                <title>Bistro Boss | FreeClass</title>
+                <title>Race Family | FreeClass</title>
             </Helmet>
         <div>
             <div>
