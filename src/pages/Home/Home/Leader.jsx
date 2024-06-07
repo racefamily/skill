@@ -46,18 +46,18 @@ const Leader = () => {
             facebookId: "entrepreneuranika09"
         },
         {
-            name: "Farhana Begum",
-            position: "Senior Sales Officer",
-            image: "https://imgur.com/OeSKmSC.jpg",
-            facebookId: "FARHANA2.Net"
-        },
-        {
             name: "Sakhawat Hossain",
             position: "Senior Sales Officer",
             image: "https://imgur.com/8Km40Py.jpg",
             facebookId: "Sakhawathossain6"
         }
         ,
+        {
+            name: "Farhana Begum",
+            position: "Senior Sales Officer",
+            image: "https://imgur.com/OeSKmSC.jpg",
+            facebookId: "FARHANA2.Net"
+        },
         {
             name: "রোকাইয়া জাহান",
             position: "Senior Sales Officer",
@@ -66,17 +66,17 @@ const Leader = () => {
         }
         ,
         {
-            name: "Abdul Malek",
+            name: "Rafidul Islam",
             position: "Sales Officer",
-            image: "https://imgur.com/7iLyp5m.jpg",
-            facebookId: "abdulmalek2024"
+            image: "https://imgur.com/qxJn96W.jpg",
+            facebookId: "rafidul.islam.7545"
         }
         ,
         {
-            name: "Mohammad Morshedul Alam",
+            name: "Shajidul Ridoy",
             position: "Sales Officer",
-            image: "https://imgur.com/Z33snu2.jpg",
-            facebookId: "nbmorshed"
+            image: "https://imgur.com/Fmocf0c.jpg",
+            facebookId: "profile.php?id=100083633741342"
         }
         ,
         {
@@ -87,10 +87,37 @@ const Leader = () => {
         }
         ,
         {
-            name: "Ali Jubair",
+            name: "Mohammad Morshedul Alam",
             position: "Sales Officer",
-            image: "https://imgur.com/Z2hZ68P.jpg",
-            facebookId: "profile.php?id=100082329159496"
+            image: "https://imgur.com/Z33snu2.jpg",
+            facebookId: "nbmorshed"
+        }
+        ,
+        {
+            name: "Samia Islam",
+            position: "Sales Officer",
+            image: "https://imgur.com/RLoFr9d.jpg",
+            facebookId: "profile.php?id=100077485381450"
+        }
+        ,
+        {
+            name: "Meherin Akter Meem",
+            position: "Sales Officer",
+            image: "https://imgur.com/2HkJ7XK.jpg",
+            facebookId: "meherinnurshaiba"
+        },
+        {
+            name: "Jannatul Naima",
+            position: "Sales Officer",
+            image: "https://imgur.com/lvFDpE8.jpg",
+            facebookId: "profile.php?id=61553987452207"
+        }
+        ,
+        {
+            name: "Abdul Malek",
+            position: "Sales Officer",
+            image: "https://imgur.com/7iLyp5m.jpg",
+            facebookId: "abdulmalek2024"
         }
         ,
         {
@@ -115,13 +142,6 @@ const Leader = () => {
         }
         ,
         {
-            name: "Jannatul Naima",
-            position: "Sales Officer",
-            image: "https://imgur.com/lvFDpE8.jpg",
-            facebookId: "profile.php?id=61553987452207"
-        }
-        ,
-        {
             name: "Md Md Imran",
             position: "Sales Officer",
             image: "https://imgur.com/mRiGqSk.jpg",
@@ -129,45 +149,10 @@ const Leader = () => {
         }
         ,
         {
-            name: "Shajidul Ridoy",
-            position: "Sales Officer",
-            image: "https://imgur.com/Fmocf0c.jpg",
-            facebookId: "profile.php?id=100083633741342"
-        }
-        ,
-        {
-            name: "Rafidul Islam",
-            position: "Sales Officer",
-            image: "https://imgur.com/qxJn96W.jpg",
-            facebookId: "rafidul.islam.7545"
-        }
-        ,
-        {
             name: "MD Sajidul Islam",
             position: "Sales Officer",
             image: "https://imgur.com/qRAz1YW.jpg",
             facebookId: "sajidulislam2006"
-        }
-        ,
-        {
-            name: "Md Sultanul Arifin",
-            position: "Sales Officer",
-            image: "https://imgur.com/r2UpSLR.jpg",
-            facebookId: "mdsultanularifin2"
-        }
-        ,
-        {
-            name: "MD Omar Ohin Bhuiyan",
-            position: "Sales Officer",
-            image: "https://imgur.com/TbxtIMi.jpg",
-            facebookId: "mdomarohin.bhuiyan"
-        }
-        ,
-        {
-            name: "Meherin Akter Meem",
-            position: "Sales Officer",
-            image: "https://imgur.com/2HkJ7XK.jpg",
-            facebookId: "meherinnurshaiba"
         }
         // Add more leaders as needed
     ];
