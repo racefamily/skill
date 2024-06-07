@@ -29,18 +29,16 @@ const NavBar = () => {
     return (
         <>
             <div className="navbar fixed z-10 max-w-screen-xl bg-fuchsia-600 text-white lg:text-white text-black">
-                <div className="navbar-start flex-1">
-                    <a className="btn btn-ghost normal-case text-xl">Race Family <br /> 01869296343</a>
-                </div>
-                <div className="navbar-end flex-none lg:hidden">
+                <div className="navbar-start">
                     <div className="dropdown">
-                        <label tabIndex={0} className="btn btn-ghost">
+                        <label tabIndex={0} className="btn btn-ghost lg:hidden">
                             Menu
                         </label>
                         <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 lg:text-white text-black">
                             {navOptions}
                         </ul>
                     </div>
+                    <a className="btn btn-ghost normal-case text-xl">Race Family <br /> 01869296343</a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
