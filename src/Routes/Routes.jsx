@@ -3,7 +3,7 @@ import {
   } from "react-router-dom";
 import Main from "../Layout/Main";
 import Home from "../pages/Home/Home/Home";
-import Order from "../pages/Order/Order/Freeclass";
+import Freeclass from "../pages/Freeclass";
 import Menu from "../pages/Menu/Menu/OurEvent";
 import Login from "../pages/Login/Login";
 import SignUp from "../pages/SignUp/SignUp";
@@ -26,8 +26,8 @@ import OurEvent from "../pages/Menu/Menu/OurEvent";
           element: <OurEvent></OurEvent>
         },
         {
-          path: 'order/:category',
-          element: <Order></Order>
+          path: 'FreeClass',
+          element: <Freeclass></Freeclass>
         },
         {
           path: 'login',

@@ -87,13 +87,6 @@ const Leader = () => {
         }
         ,
         {
-            name: "Mohammad Morshedul Alam",
-            position: "Sales Officer",
-            image: "https://imgur.com/Z33snu2.jpg",
-            facebookId: "nbmorshed"
-        }
-        ,
-        {
             name: "Samia Islam",
             position: "Sales Officer",
             image: "https://imgur.com/RLoFr9d.jpg",
@@ -111,27 +104,6 @@ const Leader = () => {
             position: "Sales Officer",
             image: "https://imgur.com/lvFDpE8.jpg",
             facebookId: "profile.php?id=61553987452207"
-        }
-        ,
-        {
-            name: "Abdul Malek",
-            position: "Sales Officer",
-            image: "https://imgur.com/7iLyp5m.jpg",
-            facebookId: "abdulmalek2024"
-        }
-        ,
-        {
-            name: "Omar Mahabub",
-            position: "Sales Officer",
-            image: "https://imgur.com/3YA2xsi.jpg",
-            facebookId: "omar.mahabub.5"
-        }
-        ,
-        {
-            name: "Habibul Islam Sayem",
-            position: "Sales Officer",
-            image: "https://imgur.com/83UmDRz.jpg",
-            facebookId: "habibulislamsayem"
         }
         ,
         {
